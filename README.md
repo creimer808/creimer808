@@ -11,8 +11,6 @@
 
 **GRC Security Analyst · CISSP · Builder**
 
-*breaking things professionally, building things obsessively*
-
 [![GitHub followers](https://img.shields.io/github/followers/creimer808?style=flat&color=0d1117&labelColor=161b22&logo=github)](https://github.com/creimer808)
 
 </div>
