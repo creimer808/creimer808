@@ -1,15 +1,17 @@
 <div align="center">
 
 ```
- ██████╗██████╗ ███████╗██╗███╗   ███╗███████╗██████╗ 
-██╔════╝██╔══██╗██╔════╝██║████╗ ████║██╔════╝██╔══██╗
-██║     ██████╔╝█████╗  ██║██╔████╔██║█████╗  ██████╔╝
-██║     ██╔══██╗██╔══╝  ██║██║╚██╔╝██║██╔══╝  ██╔══██╗
-╚██████╗██║  ██║███████╗██║██║ ╚═╝ ██║███████╗██║  ██║
- ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
+ ██████╗ █████╗ ███╗   ███╗███████╗██████╗  ██████╗ ███╗   ██╗
+██╔════╝██╔══██╗████╗ ████║██╔════╝██╔══██╗██╔═══██╗████╗  ██║
+██║     ███████║██╔████╔██║█████╗  ██████╔╝██║   ██║██╔██╗ ██║
+██║     ██╔══██║██║╚██╔╝██║██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║
+╚██████╗██║  ██║██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝██║ ╚████║
+ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-### building things that matter
+**GRC Security Analyst · CISSP · Builder**
+
+*breaking things professionally, building things obsessively*
 
 [![GitHub followers](https://img.shields.io/github/followers/creimer808?style=flat&color=0d1117&labelColor=161b22&logo=github)](https://github.com/creimer808)
 
@@ -17,21 +19,43 @@
 
 ---
 
-### what i'm working on
+### who i am
 
-**[breachday.io](https://breachday.io)** — a live incident response simulation platform for enterprise security teams. Facilitators run tabletop exercises with real-time inject delivery, role-based participation, and post-exercise reporting. No participant accounts required — just a room code.
+Security professional with 5+ years in GRC, vulnerability management, and compliance — currently a **GRC Security Analyst II** leading PCI-DSS assessments, SOC 2 audits, and vendor risk programs. CISSP certified. Double B.S. in Cyber Operations and Network & Security Administration from Dakota State University.
+
+When I'm not doing compliance work, I build tools to solve problems I run into at work.
 
 ---
 
-### stack
+### what i'm building
+
+**[breachday.io](https://breachday.io)** — a SaaS tabletop exercise platform for enterprise security teams. Facilitators run live incident response (BC/IR) simulations with real-time inject delivery, role-based participation, and post-exercise reporting. No participant accounts needed — just a room code.
+
+---
+
+### security background
+
+| area | tools & frameworks |
+|------|--------------------|
+| **compliance** | PCI-DSS · SOC 2 · NIST · ISO 27001 |
+| **vuln management** | Tenable.SC · Nessus · Qualys |
+| **threat monitoring** | CrowdStrike · LogRhythm · Palo Alto · Proofpoint |
+| **offensive** | penetration testing · DevSecOps · CTF competitor |
+| **scripting** | Python · PowerShell · Bash |
+
+> 🏆 CISSP &nbsp;·&nbsp; CrowdStrike Fal.Con CTF — 9th/53 &nbsp;·&nbsp; LogRhythm CTF — 29th/105 &nbsp;·&nbsp; TryHackMe top 7% &nbsp;·&nbsp; USAF Cyber Patriot — 3rd Place State
+
+---
+
+### dev stack
 
 <div align="left">
 
-**languages & runtimes**
+**languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=339933)
 
 **frontend**
 
@@ -49,7 +73,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-**infrastructure & services**
+**infra & services**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=3ECF8E)
@@ -74,5 +98,5 @@
 ---
 
 <div align="center">
-  <sub>building in public · security-first · ship it</sub>
+  <sub>security by day · shipping by night</sub>
 </div>
