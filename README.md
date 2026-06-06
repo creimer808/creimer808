@@ -35,8 +35,10 @@
 
 **frontend**
 
+![T3 Stack](https://img.shields.io/badge/T3_Stack-000?style=flat-square&logo=create-react-app&logoColor=9333EA)
 ![Next.js](https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-000?style=flat-square&logo=astro&logoColor=FF5D01)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-000?style=flat-square&logo=radix-ui&logoColor=white)
 
@@ -49,6 +51,7 @@
 
 **infrastructure & services**
 
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Stripe](https://img.shields.io/badge/Stripe-000?style=flat-square&logo=stripe&logoColor=635BFF)
 ![Turbo](https://img.shields.io/badge/Turborepo-000?style=flat-square&logo=turborepo&logoColor=EF4444)
@@ -61,8 +64,11 @@
 ### github stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=creimer808&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=3ECF8E&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creimer808&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" />
+  <img src="https://streak-stats.demolab.com/?user=creimer808&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=creimer808&theme=onestar&no-frame=true&column=6&margin-w=4&margin-h=4" />
 </div>
 
 ---
