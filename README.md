@@ -29,6 +29,9 @@ When I'm not doing compliance work, I build tools to solve problems I run into a
 
 **[breachday.io](https://breachday.io)** — a SaaS tabletop exercise platform for enterprise security teams. Facilitators run live incident response (BC/IR) simulations with real-time inject delivery, role-based participation, and post-exercise reporting. No participant accounts needed — just a room code.
 
+
+**[vigilus.dev](https://vigilus.dev)** — a self-hosted AI operations platform that orchestrates model-agnostic agents ("Operators") against real infrastructure (SSH, Docker, Wazuh SIEM via MCP), enforcing a just-in-time, scoped-token permission system with full audit logging for all read/write actions.
+
 ---
 
 ### security background
