@@ -9,7 +9,7 @@
  ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-**GRC Security Analyst · CISSP · Builder**
+**GRC Information Security Analyst · CISSP · Builder**
 
 [![GitHub followers](https://img.shields.io/github/followers/creimer808?style=flat&color=0d1117&labelColor=161b22&logo=github)](https://github.com/creimer808)
 
@@ -19,9 +19,7 @@
 
 ### who i am
 
-Security professional with 5+ years in GRC, vulnerability management, and compliance — currently a **GRC Security Analyst II** leading PCI-DSS assessments, SOC 2 audits, and vendor risk programs. CISSP certified. Double B.S. in Cyber Operations and Network & Security Administration from Dakota State University.
-
-When I'm not doing compliance work, I build tools to solve problems I run into at work.
+Security professional with 5+ years in GRC, vulnerability management, and compliance — currently a **GRC Information Security Analyst** leading PCI-DSS assessments, SOC 2 audits, and vendor risk programs. Manage Crowdstrike and Nessus. CISSP certified. Double B.S. in Cyber Operations and Network & Security Administration from Dakota State University.
 
 ---
 
@@ -40,7 +38,7 @@ When I'm not doing compliance work, I build tools to solve problems I run into a
 |------|--------------------|
 | **compliance** | PCI-DSS · SOC 2 · NIST · ISO 27001 |
 | **vuln management** | Tenable.SC · Nessus · Qualys |
-| **threat monitoring** | CrowdStrike · LogRhythm · Palo Alto · Proofpoint |
+| **threat management** | CrowdStrike · LogRhythm · Palo Alto · Proofpoint |
 | **offensive** | penetration testing · DevSecOps · CTF competitor |
 | **scripting** | Python · PowerShell · Bash |
 
