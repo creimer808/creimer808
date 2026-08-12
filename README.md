@@ -1,13 +1,6 @@
 <div align="center">
 
-```
- ██████╗ █████╗ ███╗   ███╗███████╗██████╗  ██████╗ ███╗   ██╗
-██╔════╝██╔══██╗████╗ ████║██╔════╝██╔══██╗██╔═══██╗████╗  ██║
-██║     ███████║██╔████╔██║█████╗  ██████╔╝██║   ██║██╔██╗ ██║
-██║     ██╔══██║██║╚██╔╝██║██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║
-╚██████╗██║  ██║██║ ╚═╝ ██║███████╗██║  ██║╚██████╔╝██║ ╚████║
- ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=creimer808&bg_color=161b22&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&title_color=58a6ff&hide_border=true" alt="creimer808's contribution graph" />
 
 **GRC Information Security Analyst · CISSP · Builder**
 
@@ -126,14 +119,6 @@ Security professional with 5+ years in GRC, vulnerability management, and compli
 ![Turbo](https://img.shields.io/badge/Turborepo-000?style=flat-square&logo=turborepo&logoColor=EF4444)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
 
-</div>
-
----
-
-### 📊 recent github activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creimer808&bg_color=161b22&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&title_color=58a6ff&hide_border=true" alt="creimer808's contribution graph" />
 </div>
 
 ---
