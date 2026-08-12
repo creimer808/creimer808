@@ -27,8 +27,54 @@ Security professional with 5+ years in GRC, vulnerability management, and compli
 
 **[breachday.io](https://breachday.io)** — a SaaS tabletop exercise platform for enterprise security teams. Facilitators run live incident response (BC/IR) simulations with real-time inject delivery, role-based participation, and post-exercise reporting. No participant accounts needed — just a room code.
 
-
 **[vigilus.dev](https://vigilus.dev)** — a self-hosted AI operations platform that orchestrates model-agnostic agents ("Operators") against real infrastructure (SSH, Docker, Wazuh SIEM via MCP), enforcing a just-in-time, scoped-token permission system with full audit logging for all read/write actions.
+
+---
+
+### 📙 some of my open source projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/creimer808/nmap-mcp">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=nmap-mcp&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="nmap-mcp" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/creimer808/hdd-health">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=hdd-health&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="hdd-health" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/creimer808/pi-stepwise">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=pi-stepwise&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="pi-stepwise" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/creimer808/freeipa-client-setup">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=freeipa-client-setup&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="freeipa-client-setup" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/creimer808/wazuh-unifi-setup">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=wazuh-unifi-setup&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="wazuh-unifi-setup" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/creimer808/gpu-pass-proxmox">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=gpu-pass-proxmox&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="gpu-pass-proxmox" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/creimer808?tab=repositories">
+  <img src="https://img.shields.io/badge/ALL_MY_REPOS-30363d?style=for-the-badge" alt="All my repos" />
+</a>
 
 ---
 
@@ -84,18 +130,15 @@ Security professional with 5+ years in GRC, vulnerability management, and compli
 
 ---
 
-### github stats
+### 📊 recent github activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=creimer808&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=creimer808&theme=onestar&no-frame=true&column=6&margin-w=4&margin-h=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creimer808&bg_color=161b22&color=8b949e&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&title_color=58a6ff&hide_border=true" alt="creimer808's contribution graph" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>security by day · shipping by night</sub>
+  <sub>security by day · shipping by night</sub><br/>
+  <sub>layout affectionately stolen from <a href="https://github.com/jc21">jc21</a>, who affectionately stole it from <a href="https://github.com/piuswalter">Pius Walter</a></sub>
 </div>
