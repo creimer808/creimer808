@@ -26,42 +26,44 @@ Security professional with 5+ years in GRC, vulnerability management, and compli
 
 ### 📙 some of my open source projects
 
+<div align="center">
+  <a href="https://vigilus.dev">
+    <img src="https://img.shields.io/badge/vigilus.dev-AI_ops_platform-1f6feb?style=for-the-badge&labelColor=161b22" alt="vigilus.dev — self-hosted AI operations platform" />
+  </a>
+</div>
+
 <table>
   <tr>
     <td>
-      <a href="https://github.com/creimer808/nmap-mcp">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=nmap-mcp&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="nmap-mcp" />
+      <a href="https://github.com/creimer808/nginx-secure-proxy-manager">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=nginx-secure-proxy-manager&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="nginx-secure-proxy-manager" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/creimer808/hdd-health">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=hdd-health&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="hdd-health" />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/creimer808/pi-stepwise">
         <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=pi-stepwise&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="pi-stepwise" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/creimer808/freeipa-client-setup">
         <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=freeipa-client-setup&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="freeipa-client-setup" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="https://github.com/creimer808/wazuh-unifi-setup">
         <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=wazuh-unifi-setup&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="wazuh-unifi-setup" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
-      <a href="https://github.com/creimer808/gpu-pass-proxmox">
-        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=gpu-pass-proxmox&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="gpu-pass-proxmox" />
+      <a href="https://github.com/creimer808/hdd-health">
+        <img src="https://github-readme-stats.zohan.tech/api/pin/?username=creimer808&repo=hdd-health&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&hide_border=true" alt="hdd-health" />
       </a>
     </td>
+    <td></td>
   </tr>
 </table>
 
