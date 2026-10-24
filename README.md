@@ -8,14 +8,12 @@ Security analyst who also ships software. By day I run PCI-DSS assessments, SOC 
 ### now building
 
 - **[breachday.io](https://breachday.io)**: tabletop exercises for security teams. Live injects and role-based play, joined with a room code.
-- **[vigilus.dev](https://vigilus.dev)**: self-hosted AI ops. Agents work on real infrastructure using scoped, just-in-time tokens, and every action is audit-logged.
+- **[nginx-secure-proxy-manager](https://github.com/creimer808/nginx-secure-proxy-manager)**: a Docker container for managing Nginx proxy hosts from one simple interface.
 
 ### open source
 
 | | |
 |:--|:--|
-| [`nginx-secure-proxy-manager`](https://github.com/creimer808/nginx-secure-proxy-manager) | Nginx proxy hosts, managed from one interface |
-| [`pi-stepwise`](https://github.com/creimer808/pi-stepwise) | a linear 4-command workflow for the Pi coding agent |
 | [`freeipa-client-setup`](https://github.com/creimer808/freeipa-client-setup) | FreeIPA client enrollment in one script |
 | [`wazuh-unifi-setup`](https://github.com/creimer808/wazuh-unifi-setup) | shipping UniFi logs into Wazuh |
 | [`hdd-health`](https://github.com/creimer808/hdd-health) | S.M.A.R.T. drive reports sent to Discord |
